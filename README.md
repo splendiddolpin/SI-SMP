@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="400"></a></p>
 
-# Laravel Sistem Informasi Manajemen Perpustakaan
+# Sistem Informasi
 
 ## Quick Start 
 clone the repo
